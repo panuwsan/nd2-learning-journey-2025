@@ -51,6 +51,8 @@ A lightweight, client-side PWA dashboard for multi-greenhouse monitoring and con
 
 ## Overview
 
+![Robot Sumo Overview](docs/images/Krapow_screenshot.png)
+
 The Krapow Smart Greenhouse Dashboard provides real-time monitoring and control for up to 10 smart greenhouses. The system is designed to maintain optimal growing conditions for Thai basil through precise environmental control and monitoring.
 
 - Real-time monitoring of critical environmental parameters
